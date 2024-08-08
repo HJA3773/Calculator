@@ -1,1 +1,1 @@
-Simple Calculator by using Streamlir as UI.
+Simple Calculator by using Streamlit as UI.
